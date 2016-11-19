@@ -17,3 +17,5 @@ A collection of useful articles from around the web related to Erlang and Elixir
 5. [A nice example of how to write a simple macro [video]](https://youtu.be/LsLWezjV9Fo)
 
 6. [The simplicity and power of Elixir, illustrated by a short example](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0#.mn5jm7me8)
+
+7. [What are the guarantees of message delivery in Erlang; GC and other technical details](http://erlang.org/faq/academic.html)
